@@ -1,0 +1,8 @@
+H:\AuditLogs\AuditLogs\bin\Debug\AuditLogs.exe
+H:\AuditLogs\AuditLogs\bin\Debug\AuditLogs.pdb
+H:\AuditLogs\AuditLogs\obj\x86\Debug\WindowsFormsApplication1.AuditLog.resources
+H:\AuditLogs\AuditLogs\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\AuditLogs\AuditLogs\obj\x86\Debug\AuditLogs.csproj.GenerateResource.Cache
+H:\AuditLogs\AuditLogs\obj\x86\Debug\AuditLogs.exe
+H:\AuditLogs\AuditLogs\obj\x86\Debug\AuditLogs.pdb
+H:\AuditLogs\AuditLogs\obj\x86\Debug\AuditLogs.csprojResolveAssemblyReference.cache
